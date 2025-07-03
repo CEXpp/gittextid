@@ -5,6 +5,6 @@ public class gittext {
         System.out.println("Hello world!hh");
         System.out.println("Hello world!hh");
         System.out.println("Hello world!hh");
-        System.out.println("Hello world!hh");
+        System.out.println("master_first text");
     }
 }
